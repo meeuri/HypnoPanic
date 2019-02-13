@@ -5,7 +5,6 @@ import pygame
 #from vector import Vector
 import settings
 from vector import Vector
-import threading
 
 class Animal(pygame.sprite.Sprite):
 
